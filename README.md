@@ -1,7 +1,7 @@
 ### Hi there, I'm Jordan Sim-Smith 👋
 
-- 🔭 I’m an Associate Developer at Nintex and a Graduate Software Engineer from the University of Auckland.
-- 🌱 I’m currently learning everything about Web and Cloud development!
+- 🔭 I’m an Engineer at Nintex and a Graduate Software Engineer from the University of Auckland.
+- 🌱 I’m currently learning everything about distributed, event-driven and resilient web systems.
 - 💬 Ask me about my projects!
 - 📫 I'm available on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jordansimsmith/)
 
